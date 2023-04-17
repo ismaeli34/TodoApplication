@@ -1,5 +1,7 @@
 # TodoAngular
 
+This  Todo application  is a angular project designed to help individuals or teams manage their tasks, to-do lists, and projects. This application typically provide a user interface for creating, organizing, and prioritizing tasks. It can be used for personal or professional purposes, and can be accessed through a variety of devices, including desktop computers, smartphones, and tablets. They are designed to help users stay organized, focused, and productive by keeping track of their tasks, reducing distractions, and providing a clear overview of their progress
+
 
 App link : https://todoapplication-de784.web.app/
 Please click on the above url to test the application.
